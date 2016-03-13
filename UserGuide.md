@@ -1,0 +1,1 @@
+The user guide for ChiBE 2.1 is [here](http://www.cs.bilkent.edu.tr/~ivis/chibe/ChiBE-2.1.UG.pdf).
